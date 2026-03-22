@@ -73,9 +73,29 @@ Funciona quase como um **tutor particular**.
 
 ---
 
+# 🎨 Interface & Code
+O modo Interface & Code é focado na ponte entre design e desenvolvimento, unindo estética, usabilidade e performance.
+
+Em vez de apenas entregar o código bruto, ele:
+
+-equilibra as decisões de UX (Experiência) com a implementação técnica
+
+-prioriza princípios Mobile-first e Acessibilidade (WCAG)
+
+-detalha a hierarquia visual e os estados de interação
+
+-analisa os trade-offs entre beleza visual e escalabilidade do código
+
+Funciona como um Mentor de Produto/Frontend, garantindo que o que é bonito também seja funcional e acessível.
+
+📄 **Prompt:** [prompts/prompt-interface-code.md](prompts/prompt-interface-code.md)
+
+---
+
 # 🧠 Resumo mental rápido
 - **Ask** → entender  
 - **Plan** → planejar antes de agir  
 - **Edit** → mudar código  
 - **Agent** → executar tarefas grandes sozinho  
-- **Study** → entendimento ativo  
+- **Study** → entendimento ativo
+- **Interface & Code** → um mentor Frontend utilizando UX. 
